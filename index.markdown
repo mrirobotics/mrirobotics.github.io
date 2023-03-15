@@ -4,7 +4,7 @@ layout: home
 title: ""
 ---
 
-ISMR 2023 Workshop 
+### Workshop at International Symposium on Medical Robotics (ISMR), Atlanta, Georgia, April 19, 2023
 
 
 ## Objectives
@@ -28,9 +28,5 @@ Despite these potential benefits, there are several challenges that must be over
 - MR-guidance
 - Robotic interventions
 - Surgical navigation
-
-## Organizers
-- Yue Chen, Georgia Institute of Technology
-- Junichi Tokuda, Brigham and Women's Hospital and Harvard Medical School
 
 
