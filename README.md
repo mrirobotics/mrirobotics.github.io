@@ -1,5 +1,9 @@
 # Recent Progress in MRI-Guided Robotics
 
+## Date/Time
+- Date: April 19, 2023
+- Time: TBD
+
 ## Objectives
 
 MRI (magnetic resonance imaging) is a non-invasive system that uses strong magnetic fields to produce detailed visualization of soft tissue. While MRI is powerful in many diagnosis/treatment procedures, it has certain limitations, including the use of medical devices that contain metal and uncomfortable intraprocedural poses for clinicians. A potential solution is the inclusion of compact, MRI-conditional robotics. MRI-conditional robotics refers to the use of robots that have been specifically designed to be safe and compatible with MRI scanners and the MR-imaging workflow. It is a rapidly growing research area that has the potential to revolutionize the way we diagnose and treat a wide range of medical conditions. These robots are able to operate in close proximity to the MRI machine and can be used to perform a variety of tasks, including image-guided surgery, biopsy, ablation, chemotherapy, and many others. One of the main advantages of MRI-conditional robotics is that they allow doctors to perform procedures with greater accuracy and precision. MRI-conditional robotics also has the potential to improve patient safety by reducing the need for exposure to radiation, which is often used in x-ray/CT.
@@ -25,4 +29,9 @@ Despite these potential benefits, there are several challenges that must be over
 ## Organizers
 - Yue Chen, Georgia Institute of Technology
 - Junichi Tokuda, Brigham and Women's Hospital and Harvard Medical School
+
+## Links
+- [ISMR 2023 Conference Page](https://ismr.gatech.edu/)
+
+
 
