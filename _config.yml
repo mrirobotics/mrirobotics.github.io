@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Recent Progress in MRI-Guided Robotics"
-email: tokuda@bwh.harvard.edu
-description: "ISMR 2023 Workshop"
+email: "yue.chen@bme.gatech.edu"
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "mrirobotics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

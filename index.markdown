@@ -1,14 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: ""
 ---
-# Recent Progress in MRI-Guided Robotics
-
-## Date/Time
-- Date: April 19, 2023
-- Time: TBD
 
 ## Objectives
 
@@ -36,6 +30,4 @@ Despite these potential benefits, there are several challenges that must be over
 - Yue Chen, Georgia Institute of Technology
 - Junichi Tokuda, Brigham and Women's Hospital and Harvard Medical School
 
-## Links
-- [ISMR 2023 Conference Page](https://ismr.gatech.edu/)
 
