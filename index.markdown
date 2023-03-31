@@ -21,7 +21,6 @@ Despite these potential benefits, there are several challenges that must be over
 - [Gregory Fischer, Ph.D](https://www.wpi.edu/people/faculty/gfischer), Worcester Polytechnic Institute, Worcester, MA
 - [Saikat Sengupta, Ph.D.](https://www.vumc.org/radiology/index.php/person/saikat-t-sengupta-phd), Vanderbilt University, Nashville, TN 
 - [Yue Chen, Ph.D.](https://research.gatech.edu/yue-chen), Georgia Institute of Technology, Atlanta, GA
-- [David Woodrum, M.D., Ph.D.](https://www.mayoclinic.org/biographies/woodrum-david-a-m-d-ph-d/bio-20055027), Mayo Clinic, Rochester, MN 
 - [Deqiang Qiu, Ph.D.](https://www.cores.emory.edu/csic/about/faculty-staff/qiu-deqiang.html), Emory University, Atlanta, GA
 - [Aiming Lu, Ph.D.](https://www.mayoclinic.org/biographies/lu-aiming-ph-d/bio-20178259), Mayo Clinic, Rochester, MN
 
