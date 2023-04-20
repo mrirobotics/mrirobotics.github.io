@@ -32,23 +32,19 @@ Despite these potential benefits, there are several challenges that must be over
 
 ## Agenda
 
-| Time        | Presenter            | Presentation Title                                                                            |
-|-------------|----------------------|-----------------------------------------------------------------------------------------------|
-| 8:30-8:35   | Yue & Junichi        | Introduction                                                                                  |
-| 8:35-8:55   | Yue Chen             | MRI-guided Tentacle-like Continuum Robotic for Minimally Invasive Procedure                   |
-| 8:55-9:15   | Noby Hata (Virtual)  | MRI-guided robotic interventions - pathway to autonomous and AI-assisted approach             |
-|             |                      | [Join Zoom Meeting](https://gatech.zoom.us/j/2125933558?pwd=NkVqUE1uSjB2VmpjenN4RVgzZ05hUT09) Meeting ID: 212 593 3558; Passcode: 818497 |
-| 9:15-9:35   | Aiming Lu            |                                                                                               |
-| 9:35-9:55   | Kevin Cleary         | MRI Robotics for Minimally invasive procedures in the bore of the Magnet                      |
-| 10-10:30    | Break and Networking |                                                                                               |
-| 10:30-10:55 | Iulian Iordachita    | Needle Shape Detection for Interventional MRI                                                 |
-| 10:55-11:15 | Gregory Fischer      | Robotic Technologies for In-situ MRI-Guided Neurosurgery Interventions                        |
-| 11:15-11:35 | Saikat Sengupta      | Device tracking in MRI-Guided Interventions                                                   |
-| 11:35-11:55 | Deqiang Qiu          |                                                                                               |
-| 11:55-12:00 |                      | Close                                                                                         |
-
-
-
+| Time        | Presenter            | Presentation Title                                                                |
+|-------------|----------------------|-----------------------------------------------------------------------------------|
+| 8:30-8:35   | Yue & Junichi        | Introduction                                                                      |
+| 8:35-8:55   | Yue Chen             | MRI-guided Tentacle-like Continuum Robotic for Minimally Invasive Procedure       |
+| 8:55-9:15   | Noby Hata            | MRI-guided robotic interventions - pathway to autonomous and AI-assisted approach |
+| 9:15-9:35   | Aiming Lu            |                                                                                   |
+| 9:35-9:55   | Kevin Cleary         | MRI Robotics for Minimally invasive procedures in the bore of the Magnet          |
+| 10-10:30    | Break and Networking |                                                                                   |
+| 10:30-10:55 | Iulian Iordachita    | Needle Shape Detection for Interventional MRI                                     |
+| 10:55-11:15 | Gregory Fischer      | Robotic Technologies for In-situ MRI-Guided Neurosurgery Interventions            |
+| 11:15-11:35 | Saikat Sengupta      | Device tracking in MRI-Guided Interventions                                       |
+| 11:35-11:55 | Deqiang Qiu          |                                                                                   |
+| 11:55-12:00 |                      | Close                                                                             |
 
 
 ## Topics
